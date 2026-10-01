@@ -1,2 +1,2 @@
-# Zhou
-A Leaning Record for a Computer Beginner.
+# 周
+学习
